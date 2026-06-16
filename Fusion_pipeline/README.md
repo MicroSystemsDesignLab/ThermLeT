@@ -149,7 +149,7 @@ python test.py \
   --model experiment/exp_1/checkpoints/best.pth \
   --out_dir results
 ```
-
+Download pre-trained weights: https://github.com/MicroSystemsDesignLab/ThermLeT/releases/tag/model_weights
 This produces:
 
 ```text
